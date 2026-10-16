@@ -1,0 +1,8 @@
+# Set these in Render's Environment settings. Never commit real values.
+APP_PASSWORD=replace-with-a-long-random-password
+SESSION_SECRET=replace-with-a-long-random-random-secret
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+GOOGLE_REDIRECT_URI=https://YOUR-RENDER-SERVICE.onrender.com/oauth2callback
+TOKEN_ENCRYPTION_KEY=replace-with-64-hex-characters
+DATA_DIR=/var/data

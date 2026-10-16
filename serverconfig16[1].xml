@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o:OfficeConfig xmlns:o="urn:schemas-microsoft-com:office:office">
+  <o:tokens>
+    <o:token o:name="MruQuickAccessInitialSyncPeriodMins">43200</o:token>
+  </o:tokens>
+</o:OfficeConfig>

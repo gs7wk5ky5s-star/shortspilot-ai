@@ -1,0 +1,15 @@
+[
+    {
+        "packageFamilyName": "MSTeams_8wekyb3d8bbwe",
+        "paths":
+        [
+            "*"
+        ],
+        "excludePaths":
+        [
+            "/_*",
+            "/meetingOptions*",
+            "/core-calling-lib*"
+        ]
+    }
+]
